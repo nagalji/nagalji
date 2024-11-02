@@ -312,6 +312,7 @@ body.dark .search-field i{
   font-family: "Rubik Wet Paint", system-ui;
   font-style: normal;
   border-left: 8px solid #ff00cc;
+ line-height: 1;
  
 }
  .admin-top {
