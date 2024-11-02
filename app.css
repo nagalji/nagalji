@@ -337,29 +337,30 @@ body.dark .search-field i{
 font-size: 40px;
 color: #B7AE7A;
 font-family: "Rubik Wet Paint", system-ui;
-  
-  font-style: normal;
+  display: block;
+  font-style: bold;
   }
   .line2 {
 font-size: 40px;
 color: red;
 font-family: "Rubik Wet Paint", system-ui;
- 
-  font-style: normal;
+ display: block;
+  font-style: bold;
   }
   .line3 {
 font-size: 40px;
 color: blue;
 font-family: "Rubik Wet Paint", system-ui;
- 
-  font-style: normal;
+display: block;
+  font-style: bold;
   }
   .line4 {
 font-size: 40px;
 color: green;
 font-family: "Rubik Wet Paint", system-ui;
+display: block;
+  font-style: bold; 
  
-  font-style: normal;
   }
   
 blockquote:before,
