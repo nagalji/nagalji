@@ -298,7 +298,7 @@ body.dark .search-field i{
 .blocky-pk {
   display: flex;
   flex-direction: column;
-  font-size: 30px;
+  font-size: 40px;
   padding: 10px;
   border-radius: 15px;
   margin: 200px auto;
@@ -310,7 +310,6 @@ body.dark .search-field i{
   color: #B7AE7A;
   background-size: cover;
   font-family: "Rubik Wet Paint", system-ui;
-  font-weight: 400;
   font-style: normal;
   border-left: 8px solid #ff00cc;
  
@@ -320,7 +319,7 @@ body.dark .search-field i{
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-    font-size: 25px;
+    font-size: 30px;
     color: red;
    } 
    
@@ -329,36 +328,36 @@ body.dark .search-field i{
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-    font-size: 25px;
+    font-size: 30px;
     color: red;
    } 
 
 .line1 {
-font-size: 30px;
+font-size: 40px;
 color: #B7AE7A;
 font-family: "Rubik Wet Paint", system-ui;
-  font-weight: 400;
+  
   font-style: normal;
   }
   .line2 {
-font-size: 25px;
+font-size: 40px;
 color: red;
 font-family: "Rubik Wet Paint", system-ui;
-  font-weight: 400;
+ 
   font-style: normal;
   }
   .line3 {
-font-size: 30px;
+font-size: 40px;
 color: blue;
 font-family: "Rubik Wet Paint", system-ui;
-  font-weight: 400;
+ 
   font-style: normal;
   }
   .line4 {
-font-size: 25px;
+font-size: 40px;
 color: green;
 font-family: "Rubik Wet Paint", system-ui;
-  font-weight: 400;
+ 
   font-style: normal;
   }
   
